@@ -1,0 +1,268 @@
+
+
+body{
+    box-sizing: border-box;
+    margin: 0;
+    padding: 0;
+    
+    
+}
+.heading{
+    background-color: brown;
+    height: 74px;
+    display: flex;
+    align-items:right;
+    justify-content: end;
+}
+.about{
+   margin: 6px;
+   height: 40px;
+   width: 60px;
+   font-family: right;
+
+}
+
+.contact{
+   margin: 200px;
+   height: 40px;
+   width: 60px;
+   background-color:blue;
+}
+.content{
+background-color: brown;
+overflow: hidden;
+    height: 234px;
+    display: flex;
+    align-items: center;
+    justify-content: start;
+    margin-top: 10px;
+}
+
+.content{
+    background-color: brown;
+    overflow: hidden;
+    height: 234px;
+    display:flex;
+    align-items: center;
+    justify-content:end;
+    margin-top: 10px;
+}
+.we{
+    margin-left: 80px;
+    display: flex;
+    width: 75%;
+    margin-top: 30px;
+}
+.tweet{
+    width: 18px;
+    margin-top: 5px;
+    
+
+}
+.tweet img{
+    width: 200px;
+    height: 50px;
+
+}
+.continer{
+    display: flex;
+    margin-left: 90px;
+    margin-top: 20px;
+    
+}
+.wellcom{
+    width: 75%;
+
+}
+.donate{
+    background: brown;
+    margin-right: 32px;
+    width: 175px;
+    height: 35px;
+    
+    font-size:x-large;
+    text-align: center;
+    padding-bottom: 25px;
+    margin-left: 60px;
+    
+    
+}
+
+    
+
+
+.sermon{
+    display: flex;
+    align-items: flex-start;
+    justify-content: space-between;
+    margin-left: 80px;
+    margin-right: 50px;
+    margin-top: 25px;
+}
+.follow{
+    margin-left: 40px;
+}
+
+.tet{
+    margin-left: 10px;
+    margin-top :10px; 
+}
+.footer{
+   
+    text-decoration-color: aliceblue;
+    background-color: black;
+    width:93%;
+    margin-top: 10%;
+    height: 25px;
+    padding: 45px;
+
+}
+.don{
+    margin-left: 890px;
+    font-size: large;
+}
+
+.mamusha-content{
+    /* background-color: aqua;  */
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    margin-top: 10px;
+    background-image: url("mamusha/header_wid.jpg");
+    background-repeat: no-repeat;
+    background-size: cover;
+    width: 100%;
+}
+.mamusha-title{
+    background-color: brown; 
+    width: 50%;
+}
+.mamusha-buttons{
+    
+    margin: 5px;
+    padding: 10px;
+    width: 100%;
+    display: flex;
+
+}
+.mamusha-btn{
+    
+    margin-left: 10px;
+    width: 120px;
+    height: 20px;
+}
+a:hover{
+ cursor: pointer;
+}
+.mamusha-btns{
+    width: 100%;
+    margin: 20px;
+    font-size: medium;
+    outline: none;
+    border: none;
+    text-align: center;
+
+    
+    
+}
+.MAMUSHAFENTA{
+    margin-right: 180px;
+    width: 170px;
+    height: 40px;
+    font-size: large;
+    background: fixed;
+    
+}
+.mamush-inner{
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    margin: 10px;  
+    color: rgb(180, 122, 234);
+}
+.mbutton{
+    
+
+    
+    margin: 20px;
+    font-size: large;
+}
+.mt{
+    display:flex;
+    width:100%;
+
+text-align: center;
+justify-content: space-around;
+align-items: center;
+margin-left: 120px;
+
+
+}
+.mt mg{
+    margin-left: 50px;
+}
+.center{
+  width: 100%;
+  margin-right: 200px;
+  font-size: large;  
+  margin-left: 30px;
+  /* background-color: blue; */
+   
+}
+.all{
+    width:100%;
+    overflow: hidden;
+    /* background-color: aqua; */
+}
+.let{
+    font-size: x-large;
+    
+}
+
+.let p
+{
+    font-size: large;
+}
+.in1{
+    margin-top: 20px;
+    
+}
+
+.in2{
+    margin-top: 20px;
+
+}
+.let2{
+    font-size:medium;
+    font-weight: bolder;
+}
+
+.navButtons{
+    margin-top: 20px;
+    outline: none;
+    padding: 5px;
+    border: none;
+    cursor: pointer;
+
+}
+.buttons{
+    display: flex;
+    gap: 10px;
+justify-content: end;
+
+margin-right: 200px;
+
+}
+.navButtons LOG IN{
+    width: 40px;
+    height: 30px;
+    margin-left: 30px;
+}
+hr{
+    
+    
+    margin-left: 90px;
+    margin-right: 350px;
+    background: gray;
+    opacity: 0.3;
+}
